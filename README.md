@@ -7,3 +7,4 @@ Repo ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi
 Berikut daftar Volunter yang diterima:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Frisca Adelina Hutabarat, [Linkedin](https://www.linkedin.com/in/frisca-adelina/).
